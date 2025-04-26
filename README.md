@@ -66,6 +66,4 @@ The dataset used is [`Cust_Spend_Data.csv`](./Cust_Spend_Data.csv), which contai
 - The K-means algorithm may produce different clusters depending on the initialization.
 - Preprocessing and feature selection heavily impact clustering quality.
 
-## 📄 License
 
-This project is licensed under the MIT License.
